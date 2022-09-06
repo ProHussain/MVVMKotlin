@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVVM Kotlin</string>
+    <string name="hussain_hashmac_com">hussain@hashmac.com</string>
+    <string name="password">password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="don_t_have_an_account_nsign_up_here">Don\'t have an account?\nSign Up Here</string>
+    <string name="mvvm">MVVM</string>
+    <string name="architect_your_app_with">architect your app with</string>
+</resources>
